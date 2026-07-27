@@ -1,2 +1,0 @@
-# mykpla
-my platform
